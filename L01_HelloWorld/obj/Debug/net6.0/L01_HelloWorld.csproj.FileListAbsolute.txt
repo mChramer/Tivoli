@@ -1,0 +1,15 @@
+C:\Users\Malin Chramer\RiderProjects\L01_HelloWorld\L01_HelloWorld\bin\Debug\net6.0\L01_HelloWorld.exe
+C:\Users\Malin Chramer\RiderProjects\L01_HelloWorld\L01_HelloWorld\bin\Debug\net6.0\L01_HelloWorld.deps.json
+C:\Users\Malin Chramer\RiderProjects\L01_HelloWorld\L01_HelloWorld\bin\Debug\net6.0\L01_HelloWorld.runtimeconfig.json
+C:\Users\Malin Chramer\RiderProjects\L01_HelloWorld\L01_HelloWorld\bin\Debug\net6.0\L01_HelloWorld.dll
+C:\Users\Malin Chramer\RiderProjects\L01_HelloWorld\L01_HelloWorld\bin\Debug\net6.0\L01_HelloWorld.pdb
+C:\Users\Malin Chramer\RiderProjects\L01_HelloWorld\L01_HelloWorld\obj\Debug\net6.0\L01_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Malin Chramer\RiderProjects\L01_HelloWorld\L01_HelloWorld\obj\Debug\net6.0\L01_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malin Chramer\RiderProjects\L01_HelloWorld\L01_HelloWorld\obj\Debug\net6.0\L01_HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Malin Chramer\RiderProjects\L01_HelloWorld\L01_HelloWorld\obj\Debug\net6.0\L01_HelloWorld.AssemblyInfo.cs
+C:\Users\Malin Chramer\RiderProjects\L01_HelloWorld\L01_HelloWorld\obj\Debug\net6.0\L01_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Malin Chramer\RiderProjects\L01_HelloWorld\L01_HelloWorld\obj\Debug\net6.0\L01_HelloWorld.dll
+C:\Users\Malin Chramer\RiderProjects\L01_HelloWorld\L01_HelloWorld\obj\Debug\net6.0\refint\L01_HelloWorld.dll
+C:\Users\Malin Chramer\RiderProjects\L01_HelloWorld\L01_HelloWorld\obj\Debug\net6.0\L01_HelloWorld.pdb
+C:\Users\Malin Chramer\RiderProjects\L01_HelloWorld\L01_HelloWorld\obj\Debug\net6.0\L01_HelloWorld.genruntimeconfig.cache
+C:\Users\Malin Chramer\RiderProjects\L01_HelloWorld\L01_HelloWorld\obj\Debug\net6.0\ref\L01_HelloWorld.dll
